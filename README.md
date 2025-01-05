@@ -42,7 +42,7 @@ cd StudyNotion
 #### 3.1 Clone or extract frontend github repo in current directory ( StudyNotion directory )
 
 ```
-git clone https://github.com/sunny8080/Study-Notion-Mern-Frontend frontend
+git clone git clone https://github.com/sunny8080/Study-Notion-Mern-Frontend frontend
 ```
 
 #### 3.2 Move to frontend directory
@@ -74,7 +74,7 @@ cd ..
 #### 5.1 Clone or extract backend github repo in current directory ( StudyNotion directory )
 
 ```
-git clone https://github.com/sunny8080/Study-Notion-Mern-Backend backend
+git clone https://github.com/PrajwalNAW/Study_Notion/tree/master/Backend backend
 ```
 
 #### 5.2 Move to backend directory
