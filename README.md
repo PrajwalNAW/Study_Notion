@@ -6,13 +6,10 @@
 
 > #### Full Stack GitHub Repo - [Click Here](https://github.com/PrajwalNAW/Study_Notion)
 >
-> #### Frontend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
+> #### Frontend GitHub Repo - [Click Here](https://github.com/PrajwalNAW/Study_Notion/tree/master/Frontend)
 >
-> #### Backend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend)
->
-> #### Frontend Live at - [https://study-notion-sunny8080.shop](https://study-notion-sunny8080.shop)
->
-> #### Backend Live at - [https://api.study-notion-sunny8080.shop](https://api.study-notion-sunny8080.shop)
+> #### Backend GitHub Repo - [Click Here](https://github.com/PrajwalNAW/Study_Notion/tree/master/Backend)
+
 
 ## Usage
 
